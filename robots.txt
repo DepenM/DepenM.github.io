@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://DepenM.github.io/sitemap.xml
